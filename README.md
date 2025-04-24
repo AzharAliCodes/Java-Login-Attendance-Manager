@@ -31,6 +31,7 @@ The login page is the entry point of the application. Users are required to ente
 
 #### Screenshot:  
 ![Login Page](path-to-your-screenshot)
+![Dashboard page](https://github.com/AzharAliCodes/Java-Login-Attendance-Manager/blob/50a7816b07296cedcffffe1a3b5ceb791cb36aef/photos/Screenshot%20(54).png)
 
 ### 2. **User Registration Form**  
 Admins can register new users by entering their details such as:
@@ -42,7 +43,7 @@ Admins can register new users by entering their details such as:
 Once the details are entered, the user is added to the database. 
 
 #### Screenshot:  
-![User Registration Form]([photos/Screenshot (54).png](https://github.com/AzharAliCodes/Java-Login-Attendance-Manager/blob/50a7816b07296cedcffffe1a3b5ceb791cb36aef/photos/Screenshot%20(54).png))
+![User Registration Form](https://github.com/AzharAliCodes/Java-Login-Attendance-Manager/blob/50a7816b07296cedcffffe1a3b5ceb791cb36aef/photos/Screenshot%20(55).png?raw=true)
 
 ### 3. **View Registered Users**  
 After users are registered, administrators can view all registered users in a list. From this page, they can:
