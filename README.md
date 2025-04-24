@@ -30,7 +30,7 @@ The login page is the entry point of the application. Users are required to ente
 - Once logged in, users can access all the functionalities such as user registration, attendance marking, and QR code generation.  
 
 #### Screenshot:  
-![Login Page](path-to-your-screenshot)
+![Login Page](https://github.com/AzharAliCodes/Java-Login-Attendance-Manager/blob/main/photos/Screenshot%20(63).png?raw=true)
 ![Dashboard page](https://github.com/AzharAliCodes/Java-Login-Attendance-Manager/blob/50a7816b07296cedcffffe1a3b5ceb791cb36aef/photos/Screenshot%20(54).png)
 
 ### 2. **User Registration Form**  
