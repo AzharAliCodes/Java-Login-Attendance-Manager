@@ -1,6 +1,6 @@
 # Java-Login-Attendance-Manager
 
-This repository contains my **first Java project** where I have cloned an existing **Login, User Management, and Attendance System** application. It is built using **Java Swing** for the desktop application interface and **MySQL** for managing the database.
+This repository contains my **first Java project** where I have cloned an existing **Login, User Management, and Attendance System** application for **Abumatics**. It is built using **Java Swing** for the desktop application interface and **MySQL** for managing the database.
 
 The project allows users to:
 - Register, view, update, and delete user details.
