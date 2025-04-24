@@ -157,10 +157,4 @@ Admins can view the attendance records for all users, including:
 ---
 
 ### **Contributors**:
-- **Ali** (Project Owner)
-
----
-
-This updated **README.md** now includes all the features, explanations, and spaces for your screenshots. Once you add your images, users will have a clear understanding of how the project works from login to attendance marking.
-
-Let me know if there’s anything else you’d like to update or add! 😊
+- **Azharuddin Ali** (Project Owner)
