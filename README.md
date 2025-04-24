@@ -64,19 +64,22 @@ Admins can modify an existing user’s details such as:
 Changes are then reflected in the database after clicking the "Update" button.
 
 #### Screenshot:  
-![Update User Details](path-to-your-screenshot)
+![Update User Details](https://github.com/AzharAliCodes/Java-Login-Attendance-Manager/blob/816f21f2368b75574f24785a9c43f0b9512e82c4/photos/Screenshot%20(57).png)
 
 ### 5. **Delete User**  
 If a user needs to be removed from the system, the admin can select the user and click the "Delete" button. This removes the user from both the GUI and the database.
 
 #### Screenshot:  
-![Delete User](path-to-your-screenshot)
+![Delete User](https://github.com/AzharAliCodes/Java-Login-Attendance-Manager/blob/816f21f2368b75574f24785a9c43f0b9512e82c4/photos/Screenshot%20(58).png)
 
 ### 6. **QR Code Generation**  
 Once a user is registered, an admin can generate a unique **QR code** for that user. The QR code contains user-specific data that can be scanned by QR code readers.
 
 #### Screenshot:  
-![QR Code Generation](path-to-your-screenshot)
+![QR Code Generation](https://github.com/AzharAliCodes/Java-Login-Attendance-Manager/blob/816f21f2368b75574f24785a9c43f0b9512e82c4/photos/Screenshot%20(59).png)
+
+
+![QR Viewer](https://github.com/AzharAliCodes/Java-Login-Attendance-Manager/blob/816f21f2368b75574f24785a9c43f0b9512e82c4/photos/Screenshot%20(60).png)
 
 ### 7. **Mark Attendance**  
 Admins can mark attendance twice a day for each user:
@@ -91,7 +94,7 @@ attendanceDuration = departureTime - arrivalTime;
 ```
 
 #### Screenshot:  
-![Mark Attendance](path-to-your-screenshot)
+![Mark Attendance](https://github.com/AzharAliCodes/Java-Login-Attendance-Manager/blob/816f21f2368b75574f24785a9c43f0b9512e82c4/photos/Screenshot%20(62).png)
 
 ### 8. **View Attendance**  
 Admins can view the attendance records for all users, including:
