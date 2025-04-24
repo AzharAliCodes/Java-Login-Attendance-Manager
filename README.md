@@ -94,7 +94,8 @@ attendanceDuration = departureTime - arrivalTime;
 ```
 
 #### Screenshot:  
-![Mark Attendance](https://github.com/AzharAliCodes/Java-Login-Attendance-Manager/blob/816f21f2368b75574f24785a9c43f0b9512e82c4/photos/Screenshot%20(62).png)
+![Mark Attendance](https://github.com/AzharAliCodes/Java-Login-Attendance-Manager/blob/a3e2cead3f9557d7534d0787e04a294b3857e21a/photos/Screenshot%20(64).png)
+
 
 ### 8. **View Attendance**  
 Admins can view the attendance records for all users, including:
@@ -103,7 +104,7 @@ Admins can view the attendance records for all users, including:
 - **Total Duration of Attendance**
 
 #### Screenshot:  
-![View Attendance](path-to-your-screenshot)
+![View Attendance](https://github.com/AzharAliCodes/Java-Login-Attendance-Manager/blob/816f21f2368b75574f24785a9c43f0b9512e82c4/photos/Screenshot%20(62).png)
 
 ---
 
