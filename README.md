@@ -52,7 +52,7 @@ After users are registered, administrators can view all registered users in a li
 - Delete users.
 
 #### Screenshot:  
-![View Registered Users](path-to-your-screenshot)
+![View Registered Users](https://github.com/AzharAliCodes/Java-Login-Attendance-Manager/blob/f16d1b6221b3596acd2f792ef605588fea08cdd9/photos/Screenshot%20(56).png)
 
 ### 4. **Update User Details**  
 Admins can modify an existing user’s details such as:
