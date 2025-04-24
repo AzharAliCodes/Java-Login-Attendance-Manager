@@ -42,7 +42,7 @@ Admins can register new users by entering their details such as:
 Once the details are entered, the user is added to the database. 
 
 #### Screenshot:  
-![User Registration Form](path-to-your-screenshot)
+![User Registration Form](photos/Screenshot (54).png)
 
 ### 3. **View Registered Users**  
 After users are registered, administrators can view all registered users in a list. From this page, they can:
